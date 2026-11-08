@@ -4,7 +4,6 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
 ![GitHub contributors](https://img.shields.io/github/contributors/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
-![GitHub contributors](https://img.shields.io/github/contributions/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
 ![GitHub stars](https://img.shields.io/github/stars/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
 ![GitHub forks](https://img.shields.io/github/forks/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
 ![License](https://img.shields.io/github/license/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=mit&color=5865F2)
