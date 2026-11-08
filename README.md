@@ -180,8 +180,6 @@ Contributions make the open-source community an incredible place to learn, inspi
 
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more details.
 
----
-
 ## 🟢 App
 
-This is a soon-to-be app on apple and android devices, it will currently be open sourced until fully made and in-development.
+This is a soon-to-be app on apple and android devices, it will currently be a open sourced localhost web-page until it's fully made and/or in-development.
