@@ -1,0 +1,59 @@
+# ==========================================
+# .gitignore for Mashed Potatoes Project
+# (C# / .NET Core Backend + React / TS Frontend)
+# ==========================================
+
+# --- Build & Compiled Outputs ---
+bin/
+obj/
+out/
+build/
+dist/
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+
+# --- Dependencies & Packages ---
+node_modules/
+.npm/
+jspm_packages/
+packages/
+*.nuget.props
+*.nuget.targets
+
+# --- Environment & Configuration Secrets ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+appsettings.Development.json
+appsettings.Local.json
+*.pfx
+*.pem
+*.crt
+
+# --- IDE & Editor Settings ---
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.suo
+*.user
+
+# --- Database & Cache ---
+*.sqlite
+*.sqlite-journal
+*.db
+.redis/
+*.log
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
