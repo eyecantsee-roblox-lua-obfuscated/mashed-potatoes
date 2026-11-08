@@ -2,15 +2,15 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
-![GitHub stars](https://img.shields.io/github/stars/your-username/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
-![GitHub forks](https://img.shields.io/github/forks/your-username/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
-![License](https://img.shields.io/github/license/your-username/mashed-potatoes?style=for-the-badge&logo=mit&color=5865F2)
+![GitHub repo size](https://img.shields.io/github/repo-size/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
+![GitHub contributors](https://img.shields.io/github/contributors/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
+![GitHub stars](https://img.shields.io/github/stars/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
+![GitHub forks](https://img.shields.io/github/forks/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=github&color=5865F2)
+![License](https://img.shields.io/github/license/eyecantsee-roblox-lua-obfuscated/mashed-potatoes?style=for-the-badge&logo=mit&color=5865F2)
 
-### *Meet. Chat. Connect. Maybe Date.*
+### *Meet. Chat. Connect. Date.*
 
-A hybrid social matchmaking and real-time community hub built for speed, safety, and spontaneous online friendships.
+A hybrid social matchmaking and real-time community hub built for speed, safety, and spontaneous online friendships.  (13+ / 17-)
 
 ---
 
@@ -49,11 +49,12 @@ A hybrid social matchmaking and real-time community hub built for speed, safety,
 
 ## 💡 About the Project
 
-Traditional dating apps often feel transactional and exhausting, while community platforms like Discord can make one-on-one discovery daunting. **Mashed Potatoes** bridges the gap by combining intuitive profile discovery with rich, real-time messaging and voice spaces.
+Traditional dating apps often feel transactional and exhausting, while community platforms like Discord can make one-on-one discovery daunting. **Mashed Potatoes** bridges the gap by combining intuitive profile discovery with rich, real-time messaging and voice spaces.  (Tinder x Discord)
 
 * **Instant Discovery:** Swipe or browse active profiles based on mutual interests, gaming habits, or custom vibe tags.
-* **Low-Pressure Communication:** Hop directly into real-time voice hubs or initiate text chats without awkward formalities.
+* **Low-Pressure Communication:** Hop directly into real-time voice chats or initiate text chats without awkward formalities.
 * **Fluid Relationship Modes:** Effortlessly switch between "Friends Only" and "Open to Dating" modes.
+* **Security Measures:** No one under 13 or over 17 are allowed and we will check age identification before instantly ip and device banning them.  (Zero Chance of PDF Files)
 
 ---
 
@@ -64,6 +65,7 @@ Traditional dating apps often feel transactional and exhausting, while community
 * 🎙️ **Voice & Audio Hubs:** Low-latency WebRTC voice rooms for casual group hangouts before moving to 1-on-1 DMs.
 * 🏷️ **Dynamic Vibe Tags:** Smart interest matching across games, music, programming, and lifestyle.
 * ⚡ **Icebreaker Mini-Games:** Interactive games inside chat rooms to break the silence instantly.
+* 💾 **Setting To Save or Not Save Chat:** There is a setting to enable or disable text chats history from saving like snapchat to remain anonymous.
 
 ---
 
@@ -177,3 +179,9 @@ Contributions make the open-source community an incredible place to learn, inspi
 ## 📜 License
 
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more details.
+
+---
+
+## 🟢 App
+
+This is a soon-to-be app on apple and android devices, it will currently be open sourced until fully made and in-development.
