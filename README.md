@@ -1,3 +1,6 @@
+# DISCLAIMER
+**this repo is archived and files have been removed as requested, i got some trouble for this + app didnt do too well and i decided to scrap this project, ill keep readme for ppl who wanna use ai and copy my idea**
+
 # 🥔 Mashed Potatoes
 
 <div align="center">
